@@ -1,2 +1,1 @@
 # mysql-django-application
-ss
